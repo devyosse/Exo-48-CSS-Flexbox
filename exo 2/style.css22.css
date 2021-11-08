@@ -1,0 +1,62 @@
+#container{
+    border: solid black 1px;
+    height: 450px;
+    width: 180px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.un{
+    height: 80px;
+    width: 80px;
+    background-color: #26cc9a;
+}
+
+.deux{
+    height: 80px;
+    width: 80px;
+    background-color: #0d0de7;
+}
+.trois{
+    height: 80px;
+    width: 80px;
+    background-color: violet;
+}
+
+.quatre{
+    height: 80px;
+    width: 80px;
+    background-color: orange;
+}
+
+.cinq{
+    height: 80px;
+    width: 80px;
+    background-color: red;
+    flex-basis: 98%;
+}
+
+.six{
+    height: 80px;
+    width: 80px;
+    background-color: #26cc9a;
+}
+.sept{
+    height: 80px;
+    width: 80px;
+    background-color: #0d0de7;
+}
+
+.huit{
+    height: 80px;
+    width: 80px;
+    background-color: violet;
+}
+
+.neuf{
+    height: 80px;
+    width: 80px;
+    background-color: orange;
+}

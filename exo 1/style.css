@@ -1,0 +1,110 @@
+body{
+    display: flex;
+}
+
+.rouge, .orange, .vert, .bleu, .violet {
+    border: black solid 1px;
+    height: 200px;
+    width: 30px;
+}
+
+.vert {
+    background-color: green;
+}
+
+.bleu {
+    background-color: blue;
+}
+
+.violet {
+    background-color: violet;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.rouge {
+    background-color: red;
+}
+
+.c1, .c2, .c3, .c4, .c5 {
+    border: black solid 1px;
+    width: 25%;
+}
+
+#container{
+    height: 200px;
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.c1{
+    background-color: green;
+}
+
+.c2{
+    background-color: blue;
+}
+
+.c3{
+    background-color: orange;
+}
+
+.c4{
+    background-color: red;
+}
+.c5{
+    background-color: purple ;
+}
+
+#container2 {
+    border: solid black 1px;
+    height: 200px;
+    width: 300px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.un, .deux, .trois, .quatre, .cinq, .six, .sept, .huit{
+    border: black solid 1px;
+    width: 25%;
+}
+
+.un{
+    background-color: black;
+}
+
+.deux{
+    background-color: purple;
+}
+
+.trois{
+    background-color: red;
+}
+
+.quatre{
+    background-color: orange;
+}
+
+.cinq{
+    background-color: green;
+}
+
+.six{
+    background-color: aqua;
+}
+
+.sept{
+    background-color: brown;
+}
+
+.huit{
+    background-color: chartreuse;
+}
+
+

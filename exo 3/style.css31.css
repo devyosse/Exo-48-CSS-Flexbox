@@ -1,0 +1,20 @@
+#container{
+    border: black solid 1px;
+    height: 300px;
+    width: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.vert{
+    background-color: chartreuse;
+    height: 80px;
+    width: 80px;
+}
+
+.bleu{
+    background-color: blue;
+    height: 80px;
+    width: 80px;
+}

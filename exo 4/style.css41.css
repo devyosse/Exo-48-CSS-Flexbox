@@ -1,0 +1,65 @@
+#container{
+    border: black solid 1px;
+    height: 380px;
+    width: 380px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: stretch;
+}
+
+.vert{
+    height: 80px;
+    width: 80px;
+    background-color: chartreuse;
+}
+
+.bleu{
+    height: 80px;
+    width: 80px;
+    background-color: blue;
+}
+
+.violet{
+    height: 80px;
+    width: 80px;
+    background-color: violet;
+}
+
+.rouge{
+    height: 80px;
+    width: 80px;
+    background-color: red;
+}
+
+.bleu2{
+    height: 80px;
+    width: 80px;
+    background-color: blue;
+}
+
+.rouge2{
+    height: 80px;
+    width: 80px;
+    background-color: red;
+}
+
+.violet2{
+    height: 80px;
+    width: 80px;
+    background-color: violet;
+}
+
+.vert2{
+    height: 80px;
+    width: 80px;
+    background-color: green;
+}
+
+#selfish {
+    height: 80px;
+    width: 80px;
+    background-color: orange;
+    flex-basis: 95% ;
+}

@@ -1,0 +1,32 @@
+#container{
+    border: solid black 1px;
+    height: 600px;
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+#haut{
+    background-color: #22dbd9;
+    width: 100%;
+    height: 10%;
+}
+
+#milieu\ 1{
+    background-color: #0d0de7;
+    width: 100%;
+    height: 35%;
+}
+
+#milieu\ 2{
+    background-color: violet;
+    width: 100%;
+    height: 45%;
+}
+
+#bas{
+    background-color: orange;
+    width: 100%;
+    height: 10%;
+}

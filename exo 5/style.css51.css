@@ -1,0 +1,38 @@
+#container {
+    border: black solid 1px;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+#lien1{
+    background-color: #26cc9a;
+    width: 20%;
+    height: 100%;
+}
+
+#lien2{
+    background-color: dodgerblue ;
+    height: 100%;
+    width: 20%;
+}
+
+#lien3{
+    background-color: purple;
+    height: 100%;
+    width: 20%;
+}
+
+#lien4{
+    background-color: orange;
+    height: 100%;
+    width: 20%;
+}
+
+#lien5{
+    background-color: red;
+    height: 100%;
+    width: 20%;
+}

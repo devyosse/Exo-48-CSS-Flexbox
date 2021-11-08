@@ -1,0 +1,46 @@
+body{
+    display: flex;
+}
+
+
+#container {
+    background-color: lightgrey;
+    border: solid 1px black;
+    width: 100px;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.vert{
+    height: 80px;
+    width: 80px;
+    background-color: chartreuse;
+}
+
+.bleu{
+    height: 80px;
+    width: 80px;
+    background-color: blue;
+}
+
+.violet{
+    height: 80px;
+    width: 80px;
+    background-color: violet;
+}
+
+.orange{
+    height: 80px;
+    width: 80px;
+    background-color: orange;
+}
+
+.rouge{
+    height: 80px;
+    width: 80px;
+    background-color: red;
+}
